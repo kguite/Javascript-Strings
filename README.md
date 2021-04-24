@@ -4,7 +4,7 @@ After my CodeWars daily challenges list grew very long, I decided to separate so
 
 ## Included
 
-Included in this repo are CodeWars Kata dealing with strings.
+Included in this repo are CodeWars Kata dealing with strings.  Most solutions include psuedocode explanation and further reading.
 
 
 ## Further Reading

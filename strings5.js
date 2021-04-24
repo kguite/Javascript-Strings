@@ -19,3 +19,15 @@ function twoSort(s) {
 // more reading about sort() method:
 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
+// another example from Codewars user "ChiefAffirmationOfficer", which I found clever and easy to read:
+
+function twoSort (strings) {
+    return [...strings]
+      .sort()
+      .shift()
+      .split("")
+      .join("***")
+  }
+
+  

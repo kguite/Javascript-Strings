@@ -15,3 +15,15 @@ function feast(beast, dish) {
   // beast[beast.length - 1] === dish[dish.length - 1] compares the last letters of both 
   // && means that it must match both the first and last letters
   // the console will return a True or False.
+
+  // another example from Codewars user Mievo, which is easy to read:
+
+  function feast(beast, dish) {
+    let beastFirstChar = beast.charAt(0);
+    let beastLastChar = beast.charAt(beast.length - 1);
+    let dishFirstChar = dish.charAt(0);
+    let dishLastChar = dish.charAt(dish.length - 1);
+    
+    return beastFirstChar === dishFirstChar && beastLastChar === dishLastChar ? true : false;
+  }
+

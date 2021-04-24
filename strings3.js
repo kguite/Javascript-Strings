@@ -21,4 +21,4 @@ function boolToWord( bool ){
     }
   }
 
-  // examples of the ternary syntax in a similar case can be found here:  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator (scroll down to conditional chains)
+  // examples of the ternary syntax in a similar case can be found here:  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator 

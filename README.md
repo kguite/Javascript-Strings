@@ -1,6 +1,6 @@
 # Javascript-Strings
 
-After my CodeWars daily challenges list grew very long, I decided to separate some of the work to make it easier to find and reference later.
+After my CodeWars daily challenges list grew very long, I decided it could be helpful to  separate some of the work to make it easier to find and reference later.
 
 ## Included
 
